@@ -11,5 +11,7 @@
 <img src="https://user-images.githubusercontent.com/89486551/143319757-0bbd31ce-7860-447a-9571-504653849d0b.png" width="50" height="50"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/89486551/143319787-e5eb9aa4-5b57-454f-b903-64282274af76.png" title="Charles" alt="Charles" width="40" height="40"/>&nbsp;
 <img src="https://miro.medium.com/fit/c/294/294/1*MjtZabdd0xkWLT-i9HxmAw.png" title="Devtools" alt="Devtools" width="40" height="40"/>&nbsp;
+<img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/androidstudio_103298.png" title="android_studio" alt="android_studio" width="50" height="50"/>
+<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189952.png" title="microsoft_visual_studio" width="50" height="50"/>
 </div>
 

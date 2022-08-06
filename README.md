@@ -15,3 +15,13 @@
 <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189952.png" title="microsoft_visual_studio" width="50" height="50"/>
 </div>
 
+---
+
+<div id="badges">
+  <p align="center">
+    
+  <p/>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=TatianaGordievskaia&style=flat-square&color=blue" alt=""/>
+  <p/>
+</div>

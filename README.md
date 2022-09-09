@@ -13,8 +13,8 @@
 <img src="https://miro.medium.com/fit/c/294/294/1*MjtZabdd0xkWLT-i9HxmAw.png" title="Devtools" alt="Devtools" width="40" height="40"/>&nbsp;
 <img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/androidstudio_103298.png" title="android_studio" alt="android_studio" width="50" height="50"/>
 <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189952.png" title="microsoft_visual_studio" width="50" height="50"/>
-<img src="https://octoperf.com/svg/home/jmeter.svg" title="microsoft_visual_studio" width="50" height="50"/>
- <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/jira_cloud_macos_bigsur_icon_190051.png" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+<img src="https://octoperf.com/svg/home/jmeter.svg" title="jmeter" width="50" height="50"/>
+ <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/jira_cloud_macos_bigsur_icon_190051.png" title="jira" width="50" height="50"/>&nbsp;
 </div>
 
 ---
